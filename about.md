@@ -3,9 +3,11 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hey there! Thanks for visiting my blog, this blog is completely made using [Jekyll](http://jekyllrb.com) and [Lanyon](http://lanyon.getpoole.com) so I kept the remaining parts from the original About page at [Lanyon repo](https://github.com/poole/lanyon). Additionally you can take a look at my [fork](https://github.com/RockyRx/rockyrx.github.io) of this beautiful theme.
+
+Find me on Twitter [@oshadhaviraj](https://twitter.com/oshadhaviraj).
+
+----------
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
