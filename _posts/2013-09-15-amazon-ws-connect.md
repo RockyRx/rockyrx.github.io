@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Amazon WS EC2 – connect via SSH RSA
+comments: true
 ---
 
 ### Intro

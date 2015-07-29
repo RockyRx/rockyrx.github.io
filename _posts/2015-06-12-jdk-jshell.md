@@ -1,6 +1,7 @@
 ---
 layout: post
 title: JDK 9 and JShell
+comments: true
 ---
 
 ### Intro
@@ -34,7 +35,7 @@ You will be entered in to the JShell.
 
 - Make sure you have set the JAVA_HOME
 - You also need Mercurial. If you are on Ubuntu just give ```sudo apt-get install mercurial```
-- Then the follow these commands to get kulla-dev branch built		
+- Then the follow these commands to get kulla-dev branch built
 	- hg clone http://hg.openjdk.java.net/kulla/dev kulla-dev
 	- cd kulla-dev
 	- sh get_sources.sh

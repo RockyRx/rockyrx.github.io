@@ -333,8 +333,8 @@ a.sidebar-nav-item:focus {
 
 /* Related posts */
 .related {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
+  padding-top: 0rem;
   border-top: 1px solid #eee;
 }
 .related-posts {

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Linux | Fancy little “dialog” utility
+comments: true
 ---
 
 Using Linux’s sophisticated “dialog” utility to display CPU core temperature

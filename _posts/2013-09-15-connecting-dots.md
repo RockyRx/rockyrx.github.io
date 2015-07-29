@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Connecting Dots
+comments: true
 ---
 
 While I was fooling around the Play store I found this recently released nice, simple and very addictive game. It’s called the Dots. The funny thing about this game is that once you get started playing it you won’t feel bored even it just has to do the same thing over and over again.
