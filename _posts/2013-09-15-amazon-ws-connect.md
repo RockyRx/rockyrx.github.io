@@ -73,7 +73,8 @@ So logout from the AWS terminal and from your local terminal execute the followi
 
 And you will be promted as below
 
-```
+
+{% highlight bash %}
 Enter file in which to save the key (/home/yourself/.ssh/id_rsa):
 Created directory ‘/home/yourself/.ssh’.
 Enter passphrase (empty for no passphrase):
@@ -83,7 +84,7 @@ Your public key has been saved in /home/yourself/.ssh/id_rsa.pub.
 The key fingerprint is:
 58:3a:80:a5:df:17:b0:af:4f:90:07:c5:3c:01:50:c2 yourself@inux-cc6a
 Your public key will be stored in /home/yourself/.ssh/
-```
+{% endhighlight %}
 
 Now what you have to do is add that key to AWS in order to identify yourself as authorize user.
 
