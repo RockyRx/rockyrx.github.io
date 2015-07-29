@@ -1,6 +1,7 @@
 ---
 layout: post
 title: JAXB + Maven – Xml to Java
+comments: true
 ---
 
 ### Situation
