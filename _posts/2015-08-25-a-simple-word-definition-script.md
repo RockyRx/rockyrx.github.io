@@ -18,9 +18,9 @@ Let's see how to get it to work (I have altered the original script from the boo
   - API key for the *learners* API would be enough for the time being
 - Get the script from [here](https://gist.github.com/RockyRx/1fe12ee85074e361836a)
 - Assign your API key to the variable **apikey**
-- Make it executable {% highlight bash %} chmod +x define {% endhighlight %}
-- Optional: if you want to make it available system wide add the script to {% highlight bash %} /usr/local/bin {% endhighlight %}
-- Finally you can run it as {% highlight bash %} ./define replenish``` {% endhighlight %}
+- Make it executable ```chmod +x define```
+- Optional: if you want to make it available system wide add the script to ```/usr/local/bin```
+- Finally you can run it as ```./define replenish```
 
 The outcome would be:-
 <img src="/public/images/define_script.png" alt="img" class="inline"/>
