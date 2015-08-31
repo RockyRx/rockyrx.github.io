@@ -14,7 +14,7 @@ So I found out this simple script from the book [*Linux Shell Scripting Cookbook
 
 Let's see how to get it to work (I have altered the original script from the book to make is more convenient)
 
-- First you need an account for *dictionaryapi.com* - http://www.dictionaryapi.com/register/index.htm
+- First you need an account in *dictionaryapi.com* - [http://www.dictionaryapi.com/register/index.htm](http://www.dictionaryapi.com/register/index.htm)
   - API key for the *learners* API would be enough for the time being
 - Get the script from [here](https://gist.github.com/RockyRx/1fe12ee85074e361836a)
 - Assign your API key to the variable **apikey**
