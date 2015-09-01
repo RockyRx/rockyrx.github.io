@@ -561,3 +561,16 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+.social-share {
+  border-top: 2px solid #EEE;
+  padding-top: 10px;
+
+    .tweet-button, .gplus-button, .fb-button {
+        display: inline-block;
+    }
+
+    .fb_iframe_widget > span {
+        vertical-align: baseline !important;
+    }
+}
