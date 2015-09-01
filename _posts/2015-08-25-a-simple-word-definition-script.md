@@ -2,6 +2,7 @@
 layout: post
 title: A simple word definition script
 comments: true
+sharing: true
 ---
 
 Have you ever come across a difficulty to find a definition of a word that you are looking for. Well I find it bit difficult for me.

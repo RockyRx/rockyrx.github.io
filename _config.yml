@@ -14,9 +14,36 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Oshadha Gunawardena
+  url:               https://twitter.com/oshadhaviraj
+  email:             oshadha.rocky@gmail.com
 
 # Custom vars
 version:             1.0.0
+
+# Settings for sharing
+# Sharing is for things like tweet, plusone, hn upvotes, like, linkedin
+# Add a tweet button 		=> provider : tweet
+# Add a like button 		=> provider : like (you also need a facebook appid)
+# Add a plus one button 	=> provider : plusone
+# Add a HN button 		=> provider : hn
+# Add them all (i.e. hn + tweet + plusone + like) => provider : all
+# Set 'provider' to the sharing provider you want to use.
+# Set 'provider' to false to turn sharing off globally.
+#
+sharing :
+  provider : tweet, plusone
+  twitter :
+    size :
+    via :
+    count :
+  facebook :
+    appid : 205602882797935
+    layout : button_count
+    font :
+    faces : false
+    width : 90
+  googleplus :
+    size : medium
+    width :
+    annotation : bubble
