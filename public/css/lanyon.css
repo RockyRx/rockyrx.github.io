@@ -565,10 +565,10 @@ a.pagination-item:hover {
 .social-share {
   border-top: 2px solid #EEE;
   padding-top: 10px;
+}
 
-    .fb_iframe_widget > span {
-        vertical-align: baseline !important;
-    }
+.fb_iframe_widget > span {
+    vertical-align: baseline !important;
 }
 
 .tweet-button, .gplus-button, .fb-button {
