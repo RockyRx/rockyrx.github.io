@@ -8,9 +8,9 @@ relative_permalinks: true
 title:               Memoverkill
 tagline:             'int $0x80'
 description:         'Software Engineering might be science, but that''s not what I do. I''m a hacker, not an engineer - Jamie Zawinski. Follow me <a href="https://twitter.com/oshadhaviraj" target="_blank">@oshadhaviraj</a>.'
-url:                 http://www.memoverkill.com
-baseurl:             ''
-paginate:            5
+url:                 http://memoverkill.com
+baseurl:             'http://memoverkill.com'
+paginate:            3
 
 # About/contact
 author:
