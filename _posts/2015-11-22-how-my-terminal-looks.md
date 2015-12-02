@@ -7,7 +7,7 @@ sharing: true
 
 ### Background
 
-I think everyone of you geeks would like if your terminal looks cool and productive. And yes, I'm talking here about terminals in POSIX-complian OS's, more specifically terminal in a Linux environment.
+I think everyone of you geeks would like if your terminal looks cool and productive. And yes, I'm talking here about terminals in POSIX-compliant OS's, more specifically terminal in a Linux environment.
 
 Anyhow I will share you the details of my customized terminal configurations so you could get an idea of what it is really capable of doing and perhaps you would start applying the changes to your own terminal.
 
@@ -35,6 +35,7 @@ Enough of the looks. Lets see how is it when it comes the productivity. Here aga
 - [sudo](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/sudo) - hit ESC twice and boom! ```sudo``` will added to your command
 - [web-search](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/web-search) - simply opens up your browser with the search query of yours in desired search engine i.e ```google whats the weather like today```
 - [chucknorris](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/chucknorris) - this plugin isn't particularly meant for productivity but it can get really humorous.
+- [ubuntu](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/ubuntu) - this particular plugin provides lot of Ubuntu specific aliases to ease up the day-to-day work
 
 Once put these all together this is how it looks
 
